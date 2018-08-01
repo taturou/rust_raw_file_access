@@ -1,0 +1,6 @@
+[package]
+name = "rust_raw_file_access"
+version = "0.1.0"
+authors = ["taturou <taturou@gmail.com>"]
+
+[dependencies]
